@@ -67,7 +67,6 @@ mod flipper {
         }
     }
 
-
     /// This is how you'd write end-to-end (E2E) or integration tests for ink! contracts.
     ///
     /// When running these you need to make sure that you:
@@ -140,4 +139,4 @@ mod flipper {
     }
 }
 
-// Contract 0x5801b439a678d9d3a68b8019da6a4abfa507de11
+// Contract 0x5a86a13ef7fc1c5e58f022be183de015dfb702ae
