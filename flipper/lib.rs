@@ -140,3 +140,4 @@ mod flipper {
 }
 
 // Contract 0x5a86a13ef7fc1c5e58f022be183de015dfb702ae
+// Contract address on Passet hub: 0x06dA9144bd9909481f45B3aA43ca2B469101C276
